@@ -1,0 +1,3 @@
+# RearEndLibraryInformationIntegrationLoaningPlatform
+
+图书馆信息一体化管理平台(后端)  RearEndLibraryInformationIntegrationLoaningPlatform
